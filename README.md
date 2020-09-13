@@ -1,2 +1,2 @@
 # JS-submit-form
-Form submit and saving results to the localStorage
+JS practice - small repo for practicing the submiting form and saving the results to the localStorage, also checking the localStorage and showing the results in the DOM.
